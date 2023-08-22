@@ -1,0 +1,35 @@
+/* index.css */
+
+/* Reset some default styles */
+body,
+h1,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+header {
+  background-color: #007bff;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: #fff;
+  font-size: 30px;
+}
+
+main {
+  padding: 20px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+}
